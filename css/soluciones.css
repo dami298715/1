@@ -1,0 +1,43 @@
+#barra-menu{
+    background: black;
+    
+}
+
+#barra-menu li a:hover{
+    color: slategrey;
+    
+}
+
+#barra-menu .navbar-header a:hover{
+    color: slategrey;
+    
+}
+#barra-menu .navbar-header a{
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 24px;  
+}
+
+#carrusel{
+    margin-top: 0px;
+}
+
+#servicio1 {
+    margin-top: 5px;
+}
+#servicio2{
+    background-color: whitesmoke;
+    margin-top: 5px;
+}
+
+#descripcion {
+    margin-top: 5px;
+}
+
+#descripcion-servicio{
+    background-color: whitesmoke;
+}
+
+#servicios{
+    background-color: white;
+}
